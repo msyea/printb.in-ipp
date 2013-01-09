@@ -1,5 +1,5 @@
 {
-	"name": "node-ipp",
+	"name": "ipp",
 	"version": "0.0.0",
 	"author": "Mayes, Kennedy & Company <support@mayeskennedy.co.uk>",
 	"description": "An implementation of IPP (Internet Printing Protocol) in node.js",
