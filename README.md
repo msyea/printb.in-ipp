@@ -1,3 +1,6 @@
+# printb.in
+printb.in is a node.js app pretending to be a IPP printer. We we going to use it to receive printing outputs from an archaic system and process the data in realtime. The output was for another system to digest and reporting dashboard. Alas the project got binned.
+
 # from ipptool
 
 { version: '1.1',
